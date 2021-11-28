@@ -1,3 +1,5 @@
+# EKS CLUSTER BOOTSTRAP
+#
 # For more information on how to write a terraform config like this: https://engineering.finleap.com/posts/2020-02-27-eks-fargate-terraform/
 #
 # To create a kubeconfig: https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html
